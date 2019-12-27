@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  With this project you will be able to search all existing public offices on the platform, displaying the number of watches, isssues, stars and the language in which the project was developed.
+  With this project you will be able to search all existing public repositories on the platform, displaying the number of watches, isssues, stars and the language in which the project was developed.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/github-search-repositories-clone">
