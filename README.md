@@ -20,7 +20,7 @@
 
 ### :rocket: Frontend Technologies (WebApp)
 
-<img alt="GitHub Issues" src="https://github.com/eltonlazzarin/github-repository-issues-webapp/blob/master/webapp.gif">
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/github-search-repositories-clone/blob/master/src/screenshot/searchPage.png">
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v4](https://github.com/ReactTraining/react-router)
@@ -44,10 +44,6 @@ $ yarn
 # Run the app
 $ yarn start
 ```
-
-<h1 align="center">
-    <img alt="Github Search Page" src="" />
-</h1>
 
 ### :memo: License
 
