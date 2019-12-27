@@ -14,7 +14,6 @@ export default class Repository extends Component {
     repositories: [],
     searchCounter: {},
     page: null,
-    filter: 'all',
     nextPage: false,
     newRepo: '',
   };
