@@ -74,7 +74,7 @@ export default class Repository extends Component {
       <Container>
         <form onSubmit={this.handleSubmit}>
           <input
-            type="type"
+            type="text"
             value={newRepo}
             onChange={this.handleInputChange}
             placeholder="Search or jump to..."
