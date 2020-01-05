@@ -19,6 +19,8 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/github-search-repositories-clone">
 
   <img src="https://api.netlify.com/api/v1/badges/5da5f1f6-af2b-44d8-8043-5fa439e1ed31/deploy-status" alt="Netlify Status">
+  
+  <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled-Components">
 
 ### :rocket: Frontend Technologies (WebApp)
 
